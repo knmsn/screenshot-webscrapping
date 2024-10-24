@@ -1,30 +1,22 @@
-# HISOKA SCREENSHOT WEBSCRAPPING
+# HISOKA SCREENSHOT WEBSCRAPING
 
-Neste repositório, trago o código fonte de um software capaz de fazer uma screenshot do site usando webscrapping de maneira oculta usando a lib puppeteer.O objetivo deste repositório é ajudar a comunidade a se desenvolver , além de manter afiada minhas habilidades desenvolvendo usando a linguagem JavaScript usando NodeJS.
+In this repository, I present the source code for software capable of taking a screenshot of a website using web scraping in a hidden manner with the Puppeteer library. The goal of this repository is to help the community grow while keeping my skills sharp by developing with JavaScript using NodeJS.
 
+## Versions
 
+**08/11/2020**
 
-## Versões
+- [x] Hidden website screenshot capture based on the URL.
+- [x] Dynamic naming, with support for changing both the extension and the name.
 
-**11/08/2020**
+## Ideas for possible updates
 
-- [x] Captura de screenshot do site de maneira oculta de acordo com a url.
-- [x] Nome dinamico , com suporte para alteração de extensão e nome também.
+- [ ] Create a while loop for website monitoring.
+- [ ] Store photos in the cloud.
 
-## Ideias para possiveis atualizacoes 
+## How to use
 
-- [ ] Criar um While para monitoramento de site.
-- [ ] Armazenar fotos em nuvem.
-
-
-## Como usar
-
-- Após clonar o repositório, use o seguinte comando: $ npm install .
-- Para rodar o script, defina o site para ser tirada a screenshot no script e de o comando $ node index.js .
+- After cloning the repository, use the following command: `$ npm install`.
+- To run the script, set the website URL for the screenshot in the script and run the command `$ node index.js`.
 
 ![](exemplo.gif)
-
-
-## Documentacao e explicacao da versao atual:
-[Artigo Linkedin](#)
-
